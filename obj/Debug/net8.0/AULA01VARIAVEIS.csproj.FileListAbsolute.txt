@@ -1,0 +1,14 @@
+c:\Users\El primero\Desktop\AULA01VARIAVEIS\bin\Debug\net8.0\AULA01VARIAVEIS.exe
+C:\Users\El primero\Desktop\AULA01VARIAVEIS\bin\Debug\net8.0\AULA01VARIAVEIS.deps.json
+C:\Users\El primero\Desktop\AULA01VARIAVEIS\bin\Debug\net8.0\AULA01VARIAVEIS.runtimeconfig.json
+c:\Users\El primero\Desktop\AULA01VARIAVEIS\bin\Debug\net8.0\AULA01VARIAVEIS.dll
+c:\Users\El primero\Desktop\AULA01VARIAVEIS\bin\Debug\net8.0\AULA01VARIAVEIS.pdb
+c:\Users\El primero\Desktop\AULA01VARIAVEIS\obj\Debug\net8.0\AULA01VARIAVEIS.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\El primero\Desktop\AULA01VARIAVEIS\obj\Debug\net8.0\AULA01VARIAVEIS.AssemblyInfoInputs.cache
+c:\Users\El primero\Desktop\AULA01VARIAVEIS\obj\Debug\net8.0\AULA01VARIAVEIS.AssemblyInfo.cs
+c:\Users\El primero\Desktop\AULA01VARIAVEIS\obj\Debug\net8.0\AULA01VARIAVEIS.csproj.CoreCompileInputs.cache
+c:\Users\El primero\Desktop\AULA01VARIAVEIS\obj\Debug\net8.0\AULA01VARIAVEIS.dll
+c:\Users\El primero\Desktop\AULA01VARIAVEIS\obj\Debug\net8.0\refint\AULA01VARIAVEIS.dll
+c:\Users\El primero\Desktop\AULA01VARIAVEIS\obj\Debug\net8.0\AULA01VARIAVEIS.pdb
+C:\Users\El primero\Desktop\AULA01VARIAVEIS\obj\Debug\net8.0\AULA01VARIAVEIS.genruntimeconfig.cache
+C:\Users\El primero\Desktop\AULA01VARIAVEIS\obj\Debug\net8.0\ref\AULA01VARIAVEIS.dll
