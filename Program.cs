@@ -85,7 +85,7 @@ namespace Aula01Variaveis
 
             Console.WriteLine("");
 
-            Console.WriteLine("------------ Valor de Contribuicao INSS ------------");
+            Console.WriteLine("=============== Valor de Contribuicao INSS ===============");
             Console.WriteLine("");
             Console.WriteLine("insira seu Salário : ");
             double salary = Convert.ToDouble(Console.ReadLine());
@@ -109,7 +109,7 @@ namespace Aula01Variaveis
             }
 
             salaryDescontado = salary - inf;
-            
+
           Console.WriteLine("Valor a ser pago pelo INSS : " + inf);
           Console.WriteLine("Salario descontado : " + salaryDescontado);
         }
