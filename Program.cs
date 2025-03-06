@@ -103,6 +103,10 @@ namespace Aula01Variaveis
             {
                 inf= (salary * 0.12);
             }
+            if(salary >=3641.04 && salary <= 7087.22 )
+            {
+                inf= (salary * 0.14);
+            }
 
             salaryDescontado = salary - inf;
             
