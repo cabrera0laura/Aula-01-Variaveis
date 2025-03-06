@@ -10,8 +10,8 @@ namespace Aula01Variaveis
             //ConcatenarPalavra();
            //VerificarAulaEtec();
            //CalcularMedia();
-           DetalharData();
-            //CalcularDescontoINSS();
+            DetalharData();
+            CalcularDescontoINSS();
 
         }
 
